@@ -1,7 +1,6 @@
 # 🐍 Python automation template
 
 Personal template for Python automation projects: scripts, workers, integrations and data processing.  
-No web frameworks, just pure Python doing its job.
 
 ---
 
